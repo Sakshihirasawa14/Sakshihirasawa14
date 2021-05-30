@@ -7,5 +7,6 @@
 - 📫 How to reach me: Linkedin - [sakshikoundal14](https://www.linkedin.com/in/sakshikoundal14/)
 - 😄 Pronouns: She
 - ⚡ Fun fact: I drink a lot of Chai XD
+- Portfolio: https://sakshihirasawa14.github.io/my-portfolio/index.html
 
 <img src="https://github-readme-stats.vercel.app/api?username=sakshihirasawa14&theme=gruvbox&show_icons=true">
